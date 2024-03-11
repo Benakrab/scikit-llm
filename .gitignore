@@ -167,3 +167,6 @@ tmp.py
 # vscode
 .vscode/
 tmp2.py
+
+# PyCharm
+.idea/
